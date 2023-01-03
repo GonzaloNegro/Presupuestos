@@ -1,0 +1,27 @@
+{
+    "succes": "true",
+    "ingresos": [
+        {
+            "descripcion": "Sueldo",
+            "valor": 10000
+        }
+    ],
+    "egresos": [
+        {
+            "descripcion": "Alquiler",
+            "valor": 3000
+        },
+        {
+            "descripcion": "Internet",
+            "valor": 95
+        },
+        {
+            "descripcion": "Netflix",
+            "valor": 20
+        },
+        {
+            "descripcion": "Seguro Auto",
+            "valor": 320
+        }
+    ]
+}
